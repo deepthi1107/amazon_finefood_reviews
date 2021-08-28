@@ -3,7 +3,7 @@ Analyzing amazon’s fine food reviews have positive or negative scores on an ov
 
 I have downloaded the amazon food reviews dataset from Kaggle.
 
-Using Natural Language Processing model I have done analyzed the dataset.
+Using Natural Language Processing model I have analyzed the dataset.
 
 Project overview:
 
